@@ -1,13 +1,15 @@
+// import Display from './Components/Display'
+import Quiz  from './Components/Quiz/Quiz'
 import './App.css'
-import Display from './Components/Display'
 
 function App() {
 
 
   return (
      <>
-        <h1>React Quiz App</h1>
-         <Display />
+        {/* <h1>React Quiz App</h1>
+         <Display /> */}
+         <Quiz /> 
      </>
   )
 }
