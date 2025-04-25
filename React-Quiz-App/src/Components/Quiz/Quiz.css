@@ -52,10 +52,10 @@
   top:-7px;
 }
 .container .correct{
-  background: #dffff2;
+  background: #62dfad;
   border-color: #03835f;
 }
 .container .wrong{
-  background:#FFEBEb;
-  border-color: #990303;
+  background:#fd7c7c;
+  border-color: #e73131;
 }
